@@ -1,8 +1,0 @@
-classes/*.class
-test-classes/
-dist/
-*.args
-compat-tests/classes/
-compat-tests/*.jar
-__pycache__/
-build/
