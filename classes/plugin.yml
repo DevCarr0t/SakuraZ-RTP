@@ -1,0 +1,14 @@
+name: RandomTeleportPlugin
+version: 1.1.0
+main: RandomTeleportPlugin
+api-version: '1.21'
+author: SakuraZ
+commands:
+  rtp:
+    description: Open the random teleport menu
+    aliases: [randomteleport]
+permissions:
+  randomteleportplugin.use:
+    default: true
+  randomteleportplugin.admin:
+    default: op
