@@ -1,0 +1,69 @@
+# Side lengths, centered at X=0 Z=0. This is not a radius.
+countdown-seconds: 5
+cooldown-seconds: 60
+search:
+  max-attempts: 80
+  timeout-seconds: 30
+menu:
+  title: Random Teleport
+  item-lore:
+  - '&eClick to teleport'
+destinations:
+  overworld:
+    world: world
+    name: '&aOverworld'
+    icon: GRASS_BLOCK
+    slot: 11
+    size-x: 1250
+    size-z: 1250
+    center-x: 0
+    center-z: 0
+  nether:
+    world: world_nether
+    name: '&cNether'
+    icon: NETHERRACK
+    slot: 13
+    size-x: 156
+    size-z: 156
+    center-x: 0
+    center-z: 0
+    nether-min-y: 32
+    nether-max-y: 110
+  end:
+    world: world_the_end
+    name: '&eThe End'
+    icon: END_STONE
+    slot: 15
+    size-x: 2500
+    size-z: 2500
+    center-x: 0
+    center-z: 0
+# Every player notification uses Actionbar. All player-facing text is English.
+messages:
+  moved: '&cTeleport cancelled because you moved.'
+  no-permission: '&cYou do not have permission to use RTP.'
+  usage: '&eUse /rtp to open the teleport menu.'
+  already-pending: '&eYou already have a teleport in progress.'
+  cooldown: '&cYou can use RTP again in {seconds}s.'
+  countdown: '&aTeleporting to {world} in {seconds}s...'
+  searching: '&eFinding a safe location...'
+  world-unavailable: '&cThat world is not available.'
+  not-found: '&cNo safe location found. Please try again.'
+  teleport-failed: '&cTeleport failed. Please try again.'
+  success: '&aTeleported to {world}'
+  cancelled: '&cRandom teleport cancelled.'
+  reloaded: '&aRTP configuration reloaded.'
+  config-failed: '&cInvalid RTP configuration. Check the server console.'
+
+# Plays to the teleported player only after a successful RTP.
+sounds:
+  teleport-success:
+    enabled: true
+    sound: entity.enderman.teleport
+    volume: 1.0
+    pitch: 1.0
+  countdown:
+    enabled: true
+    sound: block.note_block.hat
+    volume: 1.0
+    pitch: 1.0
