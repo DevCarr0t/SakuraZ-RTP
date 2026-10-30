@@ -1,0 +1,156 @@
+[
+  {
+    "version": "1.21",
+    "paper_build": 130,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21-130-b1b5d4c (MC: 1.21)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 23.0,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.1",
+    "paper_build": 133,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.1-133-3cb8529 (MC: 1.21.1)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 23.0,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.3",
+    "paper_build": 83,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.3-83-d6c81da (MC: 1.21.3)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 23.7,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.4",
+    "paper_build": 232,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.4-232-12d8fe0 (MC: 1.21.4)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 24.3,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.5",
+    "paper_build": 114,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.5-114-a1b3058 (MC: 1.21.5)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 62.4,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.6",
+    "paper_build": 48,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.6-48-4d854e6 (MC: 1.21.6)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 68.0,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.7",
+    "paper_build": 32,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.7-32-e792779 (MC: 1.21.7)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 69.0,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.8",
+    "paper_build": 60,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.8-60-29c8822 (MC: 1.21.8)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 58.1,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.9",
+    "paper_build": 59,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.9-59-0ff899d (MC: 1.21.9)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 52.5,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.10",
+    "paper_build": 130,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.10-130-8043efd (MC: 1.21.10)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 52.1,
+    "worlds_saved": true
+  },
+  {
+    "version": "1.21.11",
+    "paper_build": 132,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n1.21.11-132-c5eb079 (MC: 1.21.11)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 54.2,
+    "worlds_saved": true
+  },
+  {
+    "version": "26.1.1",
+    "paper_build": 29,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n26.1.1-29-77c0866 (MC: 26.1.1)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 49.4,
+    "worlds_saved": true
+  },
+  {
+    "version": "26.1.2",
+    "paper_build": 74,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n26.1.2-74-e4e17fc (MC: 26.1.2)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 42.3,
+    "worlds_saved": true
+  },
+  {
+    "version": "26.2",
+    "paper_build": 135,
+    "plugin_sha256": "6b23e09ae31991a0dd11c5ace251658397fbfdddeeda95fc722c25fff291335b",
+    "status": "PASS",
+    "checks": 32,
+    "report": "PASS\n26.2-135-e4d6dfd (MC: 26.2)\nplugin enabled\nversion 1.1.0\nentrypoint linked\ncommand and alias registered\nrenamed permission registered\nGUI creates 27 slots\nthree destination icons and metadata\nGUI shift-click blocked\nGUI drag blocked\nAdventure actionbar linked\nin-game reload path and config parsing\ndefault success hides coordinates\nasync player teleport signature compatible\ncooldown writes UUID to YAML\ncooldown persistence round trip\ncamera rotation preserves pending request\nposition movement cancels pending request\nworld loaded: world\nsafe landing search: NORMAL\nlava floor rejected: NORMAL\nblocked headroom rejected: NORMAL\nworld border respected: NORMAL\nworld loaded: world_nether\nsafe landing search: NETHER\nlava floor rejected: NETHER\nblocked headroom rejected: NETHER\nworld border respected: NETHER\nworld loaded: world_the_end\nsafe landing search: THE_END\nlava floor rejected: THE_END\nblocked headroom rejected: THE_END\nworld border respected: THE_END",
+    "exit_code": 0,
+    "seconds": 26.6,
+    "worlds_saved": true
+  }
+]
