@@ -37,7 +37,7 @@ Failed or cancelled teleports do not start a new cooldown. Terrain checks reduce
 ## Installation
 
 1. Stop your server.
-2. Place `RandomTeleportPlugin-1.1.0.jar` in the `plugins` folder.
+2. Place `RandomTeleportPlugin-1.1.1.jar` in the `plugins` folder.
 3. Start the server.
 4. Edit `plugins/RandomTeleportPlugin/config.yml` as needed.
 5. Run `/rtp reload` in-game as an administrator.
